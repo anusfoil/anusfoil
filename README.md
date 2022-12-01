@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Huan Zhang, PhD student in AI+Music @ C4DM, QMUL; Computational Expressive Performance, Music Information Retrieval, Computational Musicology
+
+I am neither a cat person nor a dog person 😑
+
+--
+
+[![Huan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anusfoil)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **anusfoil/anusfoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
