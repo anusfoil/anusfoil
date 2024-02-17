@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Huan Zhang 张欢, PhD student in AI+Music @ C4DM, QMUL; My research interests includes Computational Expressive Performance, Music Information Retrieval, Computational Musicology.
+I am Huan Zhang 张欢, PhD student in AI+Music @ C4DM, QMUL; My research interests includes Computational Expressive Performance, Music Information Retrieval, Computational Musicology and music education.
 
 - 💬 Ask me about anything. I can also read your birth chart. 
 - 😄 Pronouns: She, her, hers
